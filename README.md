@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Nitin 👋  
 
-<!--
-**NitinPatyal03/NitinPatyal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate  
+💻 Aspiring Software Developer | Full-Stack & Python  
+🔐 Interested in Cybersecurity and Secure Application Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+I’m a Computer Science student passionate about building **secure, scalable, and real-world software solutions**.  
+I enjoy working across the stack — from designing responsive frontends to developing backend logic and automation tools.
+
+My key interests include:
+- Full-Stack Web Development  
+- Python Automation & Scripting  
+- Cybersecurity Fundamentals  
+- Problem Solving & Data Structures  
+
+I’m currently looking for **Software Development and Internship opportunities** where I can apply my skills, contribute to meaningful projects, and grow as an engineer.
+
+---
+
+## 🛠 Tech Stack  
+
+**Languages**  
+`Java` • `Python` • `C++`  
+
+**Web Development**  
+`MERN Stack` • `HTML` • `CSS` • `JavaScript` • `SQL`  
+
+**Database**  
+`MySQL` • 'MSSQL'  
+
+**Core Concepts**  
+`Data Structures` • `OOP` • `DBMS` • `REST APIs`  
+
+**Tools & Other Skills**  
+`Git` • `VS Code` • `Automation Scripting` • `Web Scraping` • `Data Analysis`  
+
+---
+
+## 📌 Featured Projects  
+
+### 🤖 AI-Based Chatbot  
+Built an NLP-powered chatbot using **Python, NLTK, and PyTorch** to answer university-related queries using intent classification.
+
+### 🖥 Online Attendance Management System  
+Developed a secure, responsive web system using **PHP, MySQL, JavaScript, and Bootstrap** with authentication and password hashing.
+
+### 📚 E-Library System  
+Created a digital library platform to manage book records and users with **HTML, CSS, JavaScript, PHP, and MySQL**.
+
+---
+
+## 📈 What I'm Currently Working On  
+- Improving problem-solving skills in **Data Structures & Algorithms**  
+- Building more **full-stack projects**  
+- Exploring deeper concepts in **cybersecurity**  
+
+---
+
+## 🤝 Let's Connect  
+
+📧 Email: patyalnitin868@gmail.com  
+💼 Open to internships and entry-level developer roles  
+
+---
+
+⭐ *“Always learning. Always building.”*
