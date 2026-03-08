@@ -1,7 +1,7 @@
 # Hi, I'm Nitin 👋  
 
 🎓 Computer Science Undergraduate  
-💻 Aspiring Software Developer | Full-Stack & Python  
+💻 Aspiring Software Developer | Full-Stack  
 🔐 Interested in Cybersecurity and Secure Application Development  
 
 ---
@@ -12,8 +12,7 @@ I’m a Computer Science student passionate about building **secure, scalable, a
 I enjoy working across the stack — from designing responsive frontends to developing backend logic and automation tools.
 
 My key interests include:
-- Full-Stack Web Development  
-- Python Automation & Scripting  
+- Full-Stack Web Development    
 - Cybersecurity Fundamentals  
 - Problem Solving & Data Structures  
 
@@ -24,16 +23,16 @@ I’m currently looking for **Software Development and Internship opportunities*
 ## 🛠 Tech Stack  
 
 **Languages**  
-`Java` • `Python` • `C++`  
+`Java` • `C++` • `Python` 
 
 **Web Development**  
-`MERN Stack` • `HTML` • `CSS` • `JavaScript` • `SQL`  
+`MERN Stack` • `HTML` • `CSS` • `JavaScript` • `SQL` • `ASP.NET` 
 
 **Database**  
-`MySQL` • 'MSSQL'  
+`MySQL` • `MSSQl`  
 
 **Core Concepts**  
-`Data Structures` • `OOP` • `DBMS` • `REST APIs`  
+`Data Structures` • `OOP` • `DBMS` • `REST APIs` •`MVC` 
 
 **Tools & Other Skills**  
 `Git` • `VS Code` • `Automation Scripting` • `Web Scraping` • `Data Analysis`  
