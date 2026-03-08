@@ -1,70 +1,71 @@
-# Hi, I'm Nitin 👋  
+<h1 align="center">Hi 👋, I'm Nitin Patyal</h1>
+<h3 align="center">Software Developer | Java & C++ Enthusiast</h3>
 
-🎓 Computer Science Undergraduate  
-💻 Aspiring Software Developer | Full-Stack & Python  
-🔐 Interested in Cybersecurity and Secure Application Development  
-
----
-
-## 🚀 About Me  
-
-I’m a Computer Science student passionate about building **secure, scalable, and real-world software solutions**.  
-I enjoy working across the stack — from designing responsive frontends to developing backend logic and automation tools.
-
-My key interests include:
-- Full-Stack Web Development  
-- Python Automation & Scripting  
-- Cybersecurity Fundamentals  
-- Problem Solving & Data Structures  
-
-I’m currently looking for **Software Development and Internship opportunities** where I can apply my skills, contribute to meaningful projects, and grow as an engineer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Java+Programmer;C%2B%2B+Developer;Building+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+## 🚀 About Me
 
-**Languages**  
-`Java` • `Python` • `C++`  
-
-**Web Development**  
-`MERN Stack` • `HTML` • `CSS` • `JavaScript` • `SQL`  
-
-**Database**  
-`MySQL` • 'MSSQL'  
-
-**Core Concepts**  
-`Data Structures` • `OOP` • `DBMS` • `REST APIs`  
-
-**Tools & Other Skills**  
-`Git` • `VS Code` • `Automation Scripting` • `Web Scraping` • `Data Analysis`  
+- 🎓 Computer Science Student
+- 💻 Passionate about **Java, C++, and Software Development**
+- 🚀 Currently building **UniBuddy – an all-in-one student assistant**
+- 🌱 Learning **Data Structures, OOP, and System Design**
+- ⚡ Goal: Become a **top software engineer**
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ Tech Stack
 
-### 🤖 AI-Based Chatbot  
-Built an NLP-powered chatbot using **Python, NLTK, and PyTorch** to answer university-related queries using intent classification.
-
-### 🖥 Online Attendance Management System  
-Developed a secure, responsive web system using **PHP, MySQL, JavaScript, and Bootstrap** with authentication and password hashing.
-
-### 📚 E-Library System  
-Created a digital library platform to manage book records and users with **HTML, CSS, JavaScript, PHP, and MySQL**.
+![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js,git,github,vscode)
 
 ---
 
-## 📈 What I'm Currently Working On  
-- Improving problem-solving skills in **Data Structures & Algorithms**  
-- Building more **full-stack projects**  
-- Exploring deeper concepts in **cybersecurity**  
+## 📊 GitHub Stats
+
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinPatyal03&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🤝 Let's Connect  
+## 🔥 GitHub Streak
 
-📧 Email: patyalnitin868@gmail.com  
-💼 Open to internships and entry-level developer roles  
+![GitHub Streak](https://streak-stats.demolab.com/?user=NitinPatyal03&theme=tokyonight)
 
 ---
 
-⭐ *“Always learning. Always building.”*
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NitinPatyal03&theme=github-dark)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/NitinPatyal03/NitinPatyal03/blob/output/github-snake.svg)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **UniBuddy**  
+Smart student assistant combining planner, notes, and mood tracker.
+
+🔹 **Chatbot using NLP**  
+AI chatbot with intents and responses.
+
+🔹 **OOP Java System**  
+Project demonstrating encapsulation, inheritance, and polymorphism.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email
+- 🌍 Portfolio (coming soon)
+
+---
+
+⭐ *“First solve the problem, then write the code.”*
