@@ -32,10 +32,10 @@ I’m currently looking for **Software Development and Internship opportunities*
 `MySQL` • `MSSQl`  
 
 **Core Concepts**  
-`Data Structures` • `OOP` • `DBMS` • `REST APIs` •`MVC` 
+`OOPS` • `Data Structures` • `DBMS` • `REST APIs` •`MVC` 
 
 **Tools & Other Skills**  
-`Git` • `VS Code` • `Automation Scripting` • `Web Scraping` • `Data Analysis`  
+`Git` • `VS Code` • `Automation Scripting` • `Web Scraping` • `Data Analysis` • `Postman`  
 
 ---
 
